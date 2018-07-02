@@ -1,0 +1,10 @@
+{
+  "name": "service-worker-demos",
+  "version": "1.0.0",
+  "description": "Github Pages playground for service worker stuffs",
+  "main": "index.js",
+  "repository": "git@github.com:theoperatore/service-worker-demos.git",
+  "author": "Alex Petersen <theoperatore@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
